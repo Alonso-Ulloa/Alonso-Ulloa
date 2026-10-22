@@ -4,19 +4,19 @@
 - 📍 Soy de Manzanillo
 - 🌱 Actualmente estoy aprendiendo Git, Python, C, PseInt, Uso del Bash ubuntu.
 - 🎯 Mi meta es ser un Ingeniero de Software y trabajar en casa teniendo un sueldo estable
-- 
+  
 - ## Mis intereses
 - Videojuegos.
 - Mécanica.
 - Tocar piano.
 - Computadoras, componentes y etc.
-- 
+  
 - ## Tecnologías que quiero aprender...
 - JavaScript / TypeScript
 - *Python*
 - PostgreSQL
 - Lenguaje ensamblador
 - Big data
-- 
+  
 - ## Contacto
 - 📧 Julloa@ucol.mx
